@@ -106,3 +106,22 @@ The autonomous stack is structured as:
 This project was developed for **academic and research purposes**.
 It does not contain proprietary, confidential, or licensed source code from
 Quanser or any third-party organisations.
+---
+
+## Prerequisites
+
+To run or extend this project, users must ensure the following are installed
+and configured correctly **before** proceeding:
+
+- **Quanser QCar libraries and dependencies** installed from the **official
+  Quanser repositories** only.
+- A valid installation of **Quanser QLabs**, properly configured on the host
+  system.
+- Appropriate licenses and permissions required by Quanser software.
+
+This repository does **not** include any Quanser proprietary libraries or
+binaries. Users are responsible for installing and configuring all required
+Quanser software independently.
+
+Refer to the official Quanser documentation for installation and setup
+instructions.
