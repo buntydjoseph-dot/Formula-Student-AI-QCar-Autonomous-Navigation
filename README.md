@@ -46,17 +46,6 @@ The autonomous stack is structured as:
 
 ---
 
-## Project Overview
-
-The objective of this project is to design and evaluate an autonomous
-navigation system capable of completing Formula Student AI tracks using
-vision-based perception, state estimation, and real-time control algorithms.
-
-The system was developed and tested using Quanser QCar hardware and QLabs
-simulation, following constraints and scenarios inspired by Formula Student
-AI competitions.
-
----
 
 ## Key Technologies
 
