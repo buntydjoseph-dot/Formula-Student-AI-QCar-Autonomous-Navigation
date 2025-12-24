@@ -58,30 +58,6 @@ AI competitions.
 
 ---
 
-## System Architecture
-
-The autonomous stack is structured as:
-
-**Perception → Localisation → Control → Vehicle Actuation**
-
-- **Perception**
-  - Vision-based cone detection using a YOLO-based pipeline
-  - Dataset capture, annotation, and training workflows
-
-- **Localisation**
-  - Extended Kalman Filter (EKF) for state estimation
-  - Sensor fusion of vehicle motion and perception outputs
-
-- **Control**
-  - Baseline, advanced, and experimental navigation strategies
-  - Path tracking and steering control suitable for FS-AI tracks
-
-- **Simulation**
-  - Track generation and environment setup in QLabs
-  - Formula Student–style layouts for testing and validation
-
----
-
 ## Key Technologies
 
 - Python
